@@ -1,0 +1,12 @@
+name: data_products_project
+title: data_products_project
+username:
+account: ajithmasthan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2346675
+bundleId: 3182229
+url: https://ajithmasthan.shinyapps.io/data_products_project/
+when: 1590255400.95901
+asMultiple: FALSE
+asStatic: FALSE
